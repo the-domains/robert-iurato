@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: My introduction to The Grid
-datePublished: '2015-11-09T06:44:28.298Z'
-dateModified: '2015-11-09T06:44:14.959Z'
+datePublished: '2015-11-09T06:54:06.167Z'
+dateModified: '2015-11-09T06:54:01.615Z'
 title: Hello World
+sourcePath: _posts/2015-11-09-hello-world.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-09-hello-world.md
-published: true
 url: hello-world/index.html
 _type: Article
 
