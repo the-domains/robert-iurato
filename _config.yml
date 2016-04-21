@@ -1,29 +1,41 @@
-name: Robert Iurato
-favicon: null
-layout_spectrum: 0.06587783
-typography_spectrum: 0.24791
-title: Robert Iurato
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.06587783
+title: Robert Iurato
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.5690321
+  brandStrength: 0.5
+  rhythmicContrast: 0.5268605
   brandColors:
     - '#0f0506'
     - '#4a2f25'
     - '#4a4d71'
     - '#87624f'
     - '#9d8076'
-  brandStrength: 0.5
   lightness: 0.7763771
-  saturation: 0.5690321
-  rhythmicContrast: 0.5268605
 purpose: []
+favicon: null
+name: Robert Iurato
+typography_spectrum: 0.24791
